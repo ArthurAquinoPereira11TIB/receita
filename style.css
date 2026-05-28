@@ -136,7 +136,7 @@ td {
 
 tr + tr th, 
 tr + tr td {
-   margin-bottom: 12px;
+   padding-block: 12px;
 }
 
 tr:nth-of-type(1) th,
